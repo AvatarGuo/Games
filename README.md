@@ -5,3 +5,10 @@ Games 学习， 因为老师不让作品开源，因此没用用关键字
 
 
 this is why I compute 
+
+rigid body
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/rigid_body_physic.gif)
+
+
+shape matching
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/shape_matching.gif)
