@@ -14,3 +14,16 @@ rigid body 模拟效果
 shape matching 模拟效果
 
 ![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/shape_matching.gif)
+
+
+***
+
+
+implict cloth 
+
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/cloth_implict.gif)
+
+
+PBD cloth 
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/cloth_pbd.gif)
+
