@@ -5,3 +5,25 @@ Games 学习， 因为老师不让作品开源，因此没用用关键字
 
 
 this is why I compute 
+
+rigid body 模拟效果
+
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/rigid_body_physic.gif)
+
+
+shape matching 模拟效果
+
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/shape_matching.gif)
+
+
+***
+
+
+implict cloth 
+
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/cloth_implict.gif)
+
+
+PBD cloth 
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/cloth_pbd.gif)
+
