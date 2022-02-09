@@ -21,3 +21,7 @@ implict cloth
 PBD cloth 
 ![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/cloth_pbd.gif)
 
+
+
+lab4 水体模拟，水对cube的coupling 和 cube对水的coupling
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/wake_motion.gif) 
