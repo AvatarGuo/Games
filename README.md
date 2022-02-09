@@ -32,3 +32,7 @@ PBD cloth
 
 lab3 有限元模拟  stvk1
 ![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/stvk1.gif)
+
+
+lab4 水体模拟，水对cube的coupling 和 cube对水的coupling
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/wake_motion.gif) 
