@@ -249,6 +249,7 @@ public class FVM : MonoBehaviour
         // Jump up.
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            //模拟大小步长的效果
             for (int i = 0; i < number; i++)
                 V[i].y += 0.2f;
         }
@@ -346,8 +347,8 @@ public class FVM : MonoBehaviour
                     Vector3 vi_normal = vi_normal_length * Normal;
                     Vector3 vi_tangent = vi - vi_normal;
 
-                    vi_normal = -vi_normal * 0.85f;
-                    float a = Mathf.Max(1 - (0.80f * (1 + 0.98f) * vi_normal.magnitude / vi_tangent.magnitude), 0);
+                    vi_normal = -vi_normal * 0.95f;
+                    float a = Mathf.Max(1 - (0.90f * (1 + 0.98f) * vi_normal.magnitude / vi_tangent.magnitude), 0);
                     vi_tangent *= a;
 
                     //各自模拟各自的速度
