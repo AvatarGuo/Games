@@ -27,3 +27,8 @@ implict cloth
 PBD cloth 
 ![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/cloth_pbd.gif)
 
+
+
+
+lab3 有限元模拟  stvk1
+![alt text](https://github.com/AvatarGuo/Games/blob/main/unity/03/Assets/gifs/stvk1.gif)
